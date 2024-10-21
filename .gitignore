@@ -23,6 +23,7 @@ pids/
 # Dependency directories
 jspm_packages/
 dist/
+package-lock.json/
 
 # Environment variable files
 .env
